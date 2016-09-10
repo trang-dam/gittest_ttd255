@@ -1,2 +1,48 @@
+Last login: Sat Sep 10 15:25:24 on ttys000
+MACs-MacBook-Air:~ mac$ cd gittest_ttd255
+MACs-MacBook-Air:gittest_ttd255 mac$ sublime myfirstfile.txt
+-bash: sublime: command not found
+MACs-MacBook-Air:gittest_ttd255 mac$ ls
+#myfirstfile,txt#	myfirstfile.txt
+MACs-MacBook-Air:gittest_ttd255 mac$ sublime myfirstfile
+-bash: sublime: command not found
+MACs-MacBook-Air:gittest_ttd255 mac$ emacs myfirstfile.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 whatever
-this is gonna go wrong...
+this is NOT gonna go wrong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-uu-:**-F1  myfirstfile.txt   All L2     (Text)---------------------------------
+Auto-saving...done
