@@ -24,7 +24,7 @@ MACs-MacBook-Air:gittest_ttd255 mac$ emacs myfirstfile.txt
 
 whatever
 this is NOT gonna go wrong
-
+Hello there, this is Laura messing with your file
 
 
 
